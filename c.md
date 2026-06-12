@@ -25,6 +25,10 @@
 <img width="1920" height="998" alt="image" src="https://github.com/user-attachments/assets/6dce2e1e-8cfa-437e-8859-e437a99effbc" />
 
   nối api test:
-  <img width="587" height="127" alt="image" src="https://github.com/user-attachments/assets/f853ced2-6879-415e-b32e-61b6ffaf77de" />
 
-<img width="1920" height="502" alt="image" src="https://github.com/user-attachments/assets/b09468ae-97d6-4fff-8dc7-7522236c9880" />
+<img width="587" height="127" alt="image" src="https://github.com/user-attachments/assets/f853ced2-6879-415e-b32e-61b6ffaf77de" />
+
+<img width="1920" height="520" alt="image" src="https://github.com/user-attachments/assets/3a3cc1eb-50ec-4de0-b2e6-8001741846b2" />
+
+<img width="1920" height="207" alt="image" src="https://github.com/user-attachments/assets/51c4ad57-2e21-489f-a27d-6c388734436e" />
+
