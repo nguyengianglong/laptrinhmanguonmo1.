@@ -20,3 +20,13 @@
 
 -<img width="1454" height="139" alt="image" src="https://github.com/user-attachments/assets/5f7a66ef-5d36-47c0-94d6-6e3bc030182b" />
 
+-Thêm healthcheck cho myapi trong file docker-compose.yml
+
+<img width="976" height="511" alt="image" src="https://github.com/user-attachments/assets/5d49f6b6-79db-4bd0-bca5-930841f75b4b" />
+
+-giới hạn resource cho một service: (tránh việc 1 service chiếm quá nhiều ram)
+
+<img width="977" height="121" alt="image" src="https://github.com/user-attachments/assets/5ba962e0-11b8-4de5-999c-1127d4a7d2b4" />
+
+<img width="976" height="146" alt="image" src="https://github.com/user-attachments/assets/2eac5ff7-e2c2-4a7d-87ce-da42aabccf6b" />
+
